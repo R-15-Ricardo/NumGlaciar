@@ -1,14 +1,3 @@
-Esta es una nueva versión con menos fugas de memoria :D
-
-Yo no revisaria "matrix.hpp". Es un archivo demasiado largo y lo unico que hace es abstraer 
-todo lo feo de las matrices en c++ de una manera que se parece a <Armadillo> (Es la libreria
-que a mí me gusta usar), pero como no puedo usarla, entonces hice algo "similar pero peor" ya
-que parece que aún vamos a trabajar mucho con matrices.
-
-De todas formas, esto es lo único que se necesita para saber que es lo que "matrix.hpp" hace:
-
----------------------------------------------------------------------------------------------
-
 Guide for the <LINALG/matrix> library
 
 //Enum for default types. 
